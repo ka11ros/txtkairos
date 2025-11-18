@@ -1,0 +1,74 @@
+header{
+    background-color: rgb(23, 14, 124); 
+    height: 370px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    background-image: url('IMG_0941.WEBP');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 50px
+}
+h1{
+    text-align: center;
+    font-size: 80;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: black 2px;
+    margin-bottom: 5px;
+}
+
+h6{
+    text-align: center;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-top: 0px;
+}
+
+main{
+    background-color: #459ec1;
+    background: linear-gradient( to left, #459ec1, aqua); 
+    height: 100%;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+}
+
+.ggum{
+    width: 80%;
+    height: 100%;
+    background-color: aliceblue;
+    display: flex;
+    text-align: center;
+}
+
+.rich{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(125, 178, 234);
+    float: left;
+    padding: 20px;
+}
+
+.man{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(36, 47, 47);
+    float: right;
+    padding: 19px;
+}
+
+.love{
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.language{
+    width: 60%;
+    float: right;
+    padding-top: 15px;
+    margin-left: 15px;
+}
